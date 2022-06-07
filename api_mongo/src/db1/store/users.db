@@ -1,0 +1,6 @@
+{"name":"Петр","username":"Petr","password":"$2b$10$Vneh3UoMeaqdmTZiEt6lee06iDq7gCaGdjXycTy/33x8DtK063tdO","_id":"3w3UDYB68pcS0h3c"}
+{"name":"Кола","username":"Kol","password":"$2b$10$TByn5.vq5K4KWSgCpa4Mp.jpVVeNgTA0agakIRSTWHZYUcbgGKG/.","_id":"6JlV0CZFPeMgyH6c"}
+{"name":"Иван","username":"Ivan","password":"$2b$10$ntse0Wr5K60OzPi8xY.6.eWj7H6joH1Sa11boZg9au9PNSiX4F9oi","_id":"EQhU34rqrBbYSXkT"}
+{"name":"Васили","username":"Vasili","password":"$2b$10$sZSBu4ekXIc.zymNIYsSjOFOZmeTIT8zwwf5NFs3uzQoSxCi9FIKy","_id":"i4jp2qTS209eLC5G"}
+{"$$indexCreated":{"fieldName":"username","unique":true,"sparse":false}}
+{"name":"Федор","username":"Fedor","password":"$2b$10$mBu5dMdL9fsITDJOZvIEMONkqOGBJOpbIiZhrWXltuVb0o0X6N7bq","_id":"xkMYHhjOL8U8BSng"}
